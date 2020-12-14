@@ -1,4 +1,4 @@
-import operations.arabic.logic.MainLogic;
+import operations.logic.MainLogic;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -19,6 +19,6 @@ public class Main {
 
             MainLogic calc = new MainLogic();
             calc.getResult(input.replaceAll(" ", ""));
-            }
+        }
     }
 }

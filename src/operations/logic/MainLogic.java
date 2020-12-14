@@ -1,6 +1,9 @@
-package operations.arabic.logic;
+package operations.logic;
 
-import operations.arabic.*;
+import operations.Division;
+import operations.Minus;
+import operations.Multiplication;
+import operations.Plus;
 
 public class MainLogic {
 
